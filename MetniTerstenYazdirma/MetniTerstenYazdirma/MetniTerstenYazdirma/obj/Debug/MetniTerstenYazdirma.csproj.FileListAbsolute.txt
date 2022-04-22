@@ -1,0 +1,7 @@
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\bin\Debug\MetniTerstenYazdirma.exe.config
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\bin\Debug\MetniTerstenYazdirma.exe
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\bin\Debug\MetniTerstenYazdirma.pdb
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\obj\Debug\MetniTerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\obj\Debug\MetniTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\obj\Debug\MetniTerstenYazdirma.exe
+C:\Users\Alper.DESKTOP-CRB26QL\Desktop\Pratikler\MetniTerstenYazdirma\MetniTerstenYazdirma\MetniTerstenYazdirma\obj\Debug\MetniTerstenYazdirma.pdb
